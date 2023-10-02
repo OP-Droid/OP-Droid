@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OP-Droid
+- 👋 Hi, I’m @OPICHO
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript programming language
-- 💞️ I’m looking to collaborate on system development using HTML
+- 🌱 I’m currently developing various projects
+- 💞️ I’m looking to collaborate on system development using Programming languages
 - 📫 How to reach me iansimiyu57@gmail.com
 
 <!---
